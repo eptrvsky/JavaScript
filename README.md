@@ -1,5 +1,5 @@
 # JavaScript_strahCalculator
- index.html
+ 
 <menu>
 <br><li><A target=listview HREF="https://github.com/eptrvsky/files/AUTODOM.HTM">Автострахование. Расчет стоимости полиса для отечественных автомобилей.</a></li><br>
 <br><li><A target=listview HREF="files/AUTOIN.HTM">Автострахование. Расчет стоимости полиса для иномарок.</a></li><br>
