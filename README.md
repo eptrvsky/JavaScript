@@ -1,5 +1,6 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 # JavaScript_strahCalculator
-   <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+   
 <HTML><HEAD><TITLE>Автогражданка. Гражданская ответственность. Расчет стоимости полиса. </TITLE>
 <META http-equiv=Content-Type content="text/html; charset=windows-1251">
 <META 
