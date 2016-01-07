@@ -2,4 +2,4 @@
     
     
     
-    Demo:<a href="#">demo</a>
+    Demo: calculator
