@@ -1,5 +1,5 @@
 
-# JavaScript_strahCalculator
+# Калькулятор по расчету стоимости полиса ГО, в зависимости от условий страхования
    
 <HTML><HEAD><TITLE>Автогражданка. Гражданская ответственность. Расчет стоимости полиса. </TITLE>
 <META http-equiv=Content-Type content="text/html; charset=windows-1251">
